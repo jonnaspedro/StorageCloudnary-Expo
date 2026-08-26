@@ -3,9 +3,6 @@
 - Instalação das depedências
 - Configuração do Cloudnary
 - Upload de imagem
-## Aluno: Jonnas Pedro | Turma: 3 Ano B
-
-# Comandos
 
 ## Criação do Projeto
 
@@ -71,3 +68,6 @@
 ## Link do Expo - Envio de Notificação
 
 https://expo.dev/notifications
+
+## Aluno e Turma
+- Jonnas Pedro | 3° Ano B
